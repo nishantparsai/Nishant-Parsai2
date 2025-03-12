@@ -14,3 +14,8 @@ resource "azurerm_resource_group" "vinayak_moriya" {
     location = "Centralindia"
   
 }
+resource "azurerm_resource_group" "vinayak_moriya1" {
+    name = "Shiv-Parvati-herambh1"
+    location = "Centralindia"
+  
+}
