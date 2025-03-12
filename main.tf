@@ -3,3 +3,8 @@ resource "azurerm_resource_group" "Ganesha" {
     location = "eastus"
   
 }
+resource "azurerm_resource_group" "vinayak" {
+    name = "Shiv-Parvati"
+    location = "westus"
+  
+}
